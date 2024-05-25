@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "checkbook-docs",
+      "source": "@checkbook-docs/v3.0#xhwadu72rluocf2pm",
+      "integrity": "sha512-MMlsu9hmetoMYj2on533VL5tl8iiOoV5W6z4L6QFibtq90BGgIeLZr8oUSPv8OUWNBs0cMSFChrrTZBxX0tHEA==",
+      "installerVersion": "6.1.1"
+    }
+  ]
+}
